@@ -1,0 +1,4 @@
+1) Code can be broken into multiple modules
+2) Generic methods can be put in one Page class from where other pages or test can inherit from.
+3) Logging is missing from original code. It's necessary to log each and everything.
+4) For selecting different browsers on different platforms a different class can be maintained.
